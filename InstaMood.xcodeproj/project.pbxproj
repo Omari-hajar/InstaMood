@@ -99,6 +99,12 @@
 		CCB4DD872837B1B30056EEF0 /* InstaMood */ = {
 			isa = PBXGroup;
 			children = (
+				CCB4DDBE2837B1F80056EEF0 /* New Group5 */,
+				CCB4DDBD2837B1F50056EEF0 /* New Group4 */,
+				CCB4DDBC2837B1F30056EEF0 /* New Group3 */,
+				CCB4DDBB2837B1F10056EEF0 /* New Group2 */,
+				CCB4DDBA2837B1EF0056EEF0 /* New Group1 */,
+				CCB4DDB82837B1E00056EEF0 /* New Group */,
 				CCB4DD882837B1B30056EEF0 /* AppDelegate.swift */,
 				CCB4DD8A2837B1B30056EEF0 /* SceneDelegate.swift */,
 				CCB4DD8C2837B1B30056EEF0 /* ViewController.swift */,
@@ -125,6 +131,48 @@
 				CCB4DDAB2837B1B60056EEF0 /* InstaMoodUITestsLaunchTests.swift */,
 			);
 			path = InstaMoodUITests;
+			sourceTree = "<group>";
+		};
+		CCB4DDB82837B1E00056EEF0 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		CCB4DDBA2837B1EF0056EEF0 /* New Group1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group1";
+			sourceTree = "<group>";
+		};
+		CCB4DDBB2837B1F10056EEF0 /* New Group2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group2";
+			sourceTree = "<group>";
+		};
+		CCB4DDBC2837B1F30056EEF0 /* New Group3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group3";
+			sourceTree = "<group>";
+		};
+		CCB4DDBD2837B1F50056EEF0 /* New Group4 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group4";
+			sourceTree = "<group>";
+		};
+		CCB4DDBE2837B1F80056EEF0 /* New Group5 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group5";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
